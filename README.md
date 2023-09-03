@@ -1,6 +1,6 @@
 # Horiseon_Challenge
 
-This website for Horiseon that discusses Search Engine Optimization, Online Reputation Management, and Social Media Marketing as well as the benefits that come with each.
+This is a website for Horiseon that discusses Search Engine Optimization, Online Reputation Management, and Social Media Marketing as well as the benefits that come with each.
 
 Link: https://apohl53.github.io/Horiseon_Challenge/
 
